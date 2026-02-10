@@ -1,0 +1,12 @@
+dataset/
+GroupA/
+GroupB/
+*.zip
+*.tiff
+*.tif
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+venv/
+SAR_Hybrid_Wavelet_CNN_Main.ipynb
